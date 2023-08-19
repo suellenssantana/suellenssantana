@@ -35,7 +35,7 @@
 
 
 
-Referência de criação do README [^1].
-GitHub Stats [^2].
+###### Referência de criação do README [^1].
+###### GitHub Stats [^2].
 [^1]: Elidiana Andrade - juntamente com meu agradecimento pelo material espetacular que me auxiliou a criar esse README. 
 [^2]: Temas	github-readme-stats/themes/README.md e Fonte	anuraghazra/github-readme-stats
