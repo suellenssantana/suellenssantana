@@ -1,6 +1,6 @@
 
 ###  👋 Olá, me chamo Suellen!
-#### Sou Engenheira Química, tenho MBA em Gestão de Projetos e estou em transição de carreira para me tornar desenvolvedora, com interesse principalmente em `frontend`, mas tenho também estudado obter habilidades `fullstack`.
+#### Sou Engenheira Química, tenho MBA em Gestão de Projetos e, em busca de transição de carreira, atualmente sou estudante de Engenharia de Software. Tenho estudado para me tornar uma profissional `fullstack` e tenho desenvolvido bastante interesse em aprender sobre Inteligência Artificial.
 
 #### 🖥 Conecte-se comigo:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/suellen-s-santana/)
