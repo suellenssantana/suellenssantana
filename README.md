@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://suellensantana.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/suellen-s-santana/)
-[![Email](https://img.shields.io/badge/Contact-000?style=for-the-badge&logo=gmail)](mailto:suellen.s.santana@gmail.com)
+[![Email](https://img.shields.io/badge/Contact-000?style=for-the-badge&logo=mail)](mailto:devsuellensantana@icloud.com)
 
 </div>
 
