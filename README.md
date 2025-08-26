@@ -63,7 +63,7 @@ Busco colaborar em **projetos open source** e adoro aprender resolvendo problema
 
 ---
 
-## 🗂️ Destaques (Projetos)
+<!--## 🗂️ Destaques (Projetos)
 > 💡 Substitua os links pelos seus repositórios reais.
 
 - **IMDb / TMDb Explorer** — Busca e catálogo de filmes e séries com **React + Vite + Tailwind**, consumo da API TMDb.  
@@ -78,7 +78,8 @@ Busco colaborar em **projetos open source** e adoro aprender resolvendo problema
   `Node.js` `Prisma` `PostgreSQL`
   - Repo: https://github.com/suellenssantana/_coloque-seu-repo-aqui_
 
----
+--- 
+-->
 
 ## 📈 GitHub Insights
 
