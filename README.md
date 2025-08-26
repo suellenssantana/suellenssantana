@@ -26,7 +26,7 @@ Busco colaborar em **projetos open source** e adoro aprender resolvendo problema
 ## 🚀 Tech Stack
 
 ### Linguagens
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
@@ -109,7 +109,7 @@ Busco colaborar em **projetos open source** e adoro aprender resolvendo problema
 
 - **Site:** [suellensantana.io](https://suellensantana.io)  
 - **LinkedIn:** [Suellen S. Santana](https://www.linkedin.com/in/suellen-s-santana/)  
-- **Email:** suellen.s.santana@gmail.com
+- **Email:** devsuellensantana@icloud.com
 
 ---
 
@@ -129,43 +129,6 @@ Let’s connect on LinkedIn or send me an email — happy to collaborate!
 </div>
 
 
-###  👋 Olá, me chamo Suellen!
-#### Sou Engenheira Química, tenho MBA em Gestão de Projetos e, em busca de transição de carreira, atualmente sou estudante de Engenharia de Software, de Tecnologia em Banco de Dados e estou conluindo pós graduação em Ciência de Dados e Inteligência Artificial. Tenho estudado para me tornar uma profissional `fullstack` e tenho desenvolvido bastante interesse em aprender sobre Inteligência Artificial.
 
-#### 🖥 Conecte-se comigo:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/suellen-s-santana/)
-
-
-- ✨ Busco colaborar em projetos open source e assim e enriquecer o meu portfólio enquanto enfrento novos desafios e aprendo. 
-
-- 📚 O que mais tenho dedicado meus estudos:
- 
-|![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) |![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) | 
-| -------------| -------------| 
-
-|![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) |![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) |
-| -------------| -------------| 
-
-|![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) |![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)|
-| -------------| -------------| 
-
-
-
-* 👩‍💻 As linguagens que mais tenho usado (na plataforma [GitHub](https://github.com/suellenssantana/suellenssantana)):
-
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=suellenssantana&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-
-
-
-
-
-
-
-
-###### Referência de criação do README [^1].
-###### GitHub Stats [^2].
-[^1]: Elidiana Andrade - juntamente com meu agradecimento pelo material espetacular que me auxiliou a criar esse README. 
-[^2]: Temas	github-readme-stats/themes/README.md e Fonte	anuraghazra/github-readme-stats
+###### Referência de criação do README [^1]
+[^1]: Temas	github-readme-stats/themes/README.md e Fonte	anuraghazra/github-readme-stats
