@@ -17,7 +17,7 @@
 ---
 
 ## ✨ Sobre mim
-Engenheira Química com **MBA em Gestão de Projetos**, em transição para **Engenharia de Software** (Full-Stack) e **Ciência de Dados & IA**.  
+Eu sou Engenheira Química com **MBA em Gestão de Projetos**, em transição para **Engenharia de Software** (Full-Stack) e **Ciência de Dados & IA**.  
 Gosto de construir produtos de ponta a ponta: **frontend moderno**, **APIs escaláveis**, **bancos de dados bem modelados** e **features com IA**.  
 Busco colaborar em **projetos open source** e adoro aprender resolvendo problemas reais.
 
@@ -117,7 +117,7 @@ Busco colaborar em **projetos open source** e adoro aprender resolvendo problema
 <details>
 <summary>🗣️ EN (English version)</summary>
 
-**Chemical Engineer** with an **MBA in Project Management**, transitioning to **Software Engineering** (Full-Stack) and **Data & AI**.  
+I'm a **Chemical Engineer** with an **MBA in Project Management**, transitioning to **Software Engineering** (Full-Stack) and **Data & AI**.  
 I love building end-to-end products and collaborating on **open source**.  
 Current focus: **React + Node/Express + DB/Prisma**, and adding **AI** features to web apps.  
 Let’s connect on LinkedIn or send me an email — happy to collaborate!
